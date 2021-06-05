@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mycurriculo appy</string>
+    <string name="nome">Ryan Rangel</string>
+    <string name="ocupação">Otaku e programador</string>
+    <string name="sobre_mim">Eu sou um jovem otaku apaixonado pela cultura japonesa. principalmente os animes que conseguem trazer uma gama de cultura e aprendizado</string>
+    <string name="indicação">Vou apresentar um leve resumo sobre os meus gêneros de animes favoritos:</string>
+    <string name="top_animes">Meu top animes:</string>
+    <string name="sobre_anime">Nessa lista vou apresentar para vocês os melhores desenhos japoneses de cada gênero popular que mais chama atenção dos seguidores ao redor do mundo como Seinen, shonen, mecha, shoujo</string>
+    <string name="clica">Clique para mais informações</string>
+    <string name="shonen">Shonen:</string>
+    <string name="shonen_description">É uma categoria demográfica direcionada ao público adolescente. Um anime ou mangá Shonen pode ser reconhecido facilmente pelas lutas e personagens poderosos. A categoria apela para uma grande faixa etária, embora seu público primário esteja na faixa de idade de 12 a 18 anos.</string>
+    <string name="seinen">Seinen:</string>
+    <string name="seinen_description">São séries de mangá voltadas para o público masculino adulto. Em japonês, a palavra seinen significa jovem, apesar de também ser usada para descrever o público-alvo de revistas de mangás destinadas a homens de 20 a 50 anos.</string>
+    <string name="mecha">Mecha:</string>
+    <string name="mecha_descripition">O público-alvo desses animes são jovens e adultos do sexo masculino, mas há uma grande variedade de histórias sobre mecha abrangendo vários gêneros e estilos. Características comuns do gênero são o combate ao mal, os pilotos de idade adolescente em profusão e o uso de gritos e bordões para controlar os mechas.</string>
+    <string name="shoujo">Shoujo:</string>
+    <string name="shoujo_descripition">é um tipo de mangá comercializado para o público adolescente feminino (normalmente entre as idades de 12 a 18 anos). O nome latinizado de 少女 (shōjo), literalmente significa pequena garota.</string>
+    <string name="onde_encontrar">Onde encontrar:</string>
+    <string name="desc_Anime">O mundo dos animes é vasto e você pode encontra-los em varias plataformas, se quiser ter mais informações ou começar a assistir, visite os links abaixo ou me mande um email com os seus generos favoritos e irei disponibilizar uma lista especifica para você. Venha junto curtir esse mundo cheio de aventura e diversão</string>
+    <string name="bot_o_mal">Botão mal</string>
+    <string name="botao_email">botao email</string>
+    <string name="botao_da_crunch">botao da crunch</string>
+    <string name="clique_e_se_divirta">Clique e se divirta:</string>
+</resources>
